@@ -31,4 +31,4 @@ Date: 2019. 9.28 (토) 10:00~18:00
 | 최정아     | 이광수와 김동인, 그리고 나혜석: 계몽과 여성의실을 중심으로 Yi Gwangu, Gim Dongin, and Na Hyeseuk                                         |
 | 김효재     | 교주가 오산을 만났을 때, 조선청년이란 하오 When the School Master Met Osan                                                              |
 
-<http:// Chunwon.scholarweb.Kr>
+<http://Chunwon.scholarweb.Kr>
