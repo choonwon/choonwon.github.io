@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Home
 
-You can use the [editor on GitHub](https://github.com/choonwon/choonwon.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Kwangsu Yi (이광수 李光洙) wrote many books. His penname is Choonwon (춘원春園) which means Spring Garden in Korean. Borrn in Korea (1892), travelled to China, Japan and Russia, and settled down in Seoul (1921).  He is known to have died in captivity in North Korea in 1950.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Works of Kwang-su -Yi (이 광수 작품선집, 春園 李光洙 作品 先集)
+- Mujong (무정, Heartless, 1917)
+- Declaration of Independence (2,8 독립선언서, 1919)
+- Danjong Aesa (단종애사, Tragedy of King Tanjong, 1929)
+- Hurk( 흙, Soil, 1932)
+- Sarang (사랑, Love, 1938) 
+- Mumyong(무명, Lightless, 1939)
+- Wonhyo Daesa (원효대사, Great Priest Wonhyo, 1942)
+- Dolbege (돌베개, Stone Pillow, 1947)
+- Na/Nauigobaek (나/나의고백, I /my confession, 1947)
+- Heartless, Yi Kwang-su and Modern Korean Literature (translation of Mujong by Ann Sung-hi Lee, 2005)
+- The Soil (translation of Hurk by  Hwang Sun-ae and Horace Jeffery Hodges, 2013)
+- Kashil and Best Essays by Yi Kwang-su (translalations by Chung Nan Lee Kim, 2014)
+- The Best Short Stories of Yi Kwanag-su (translations by Chang-Wuk Kang, 2016)
+- Life and Thought of  Yi Kwang-su"  Biography of Yi Kwang-su by Grant S. Lee, Ushinsa, Seoul, 1984.
+- "Korean National Identity under Japanese Colonial Rule, Yi Gwangsu and the March First Movement of 1919" by Michael D. Shin, Routledge, 2018.
+   
+For inquiry please contact  cwliyeng@hanmail.net
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/choonwon/choonwon.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+http://chunwon.scholarweb.kr
