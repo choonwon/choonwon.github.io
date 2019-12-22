@@ -1,5 +1,7 @@
 Kwangsu Yi (이광수 李光洙) wrote many books. His penname is Choonwon (춘원春園) which means Spring Garden in Korean. Borrn in Korea (1892), travelled to China, Japan and Russia, and settled down in Seoul (1921).  He is known to have died in captivity in North Korea in 1950.
 
+![Korean Provisional Government 1919](images/20170921_105543.jpg)
+
 ### Works of Kwang-su -Yi (이 광수 작품선집, 春園 李光洙 作品 先集)
 - Mujong (무정, Heartless, 1917)
 - Declaration of Independence (2,8 독립선언서, 1919)
